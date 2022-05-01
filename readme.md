@@ -81,6 +81,7 @@ ReactDOM.render([<header1 />, <paragrph1>], document.getElementById("root"))
 - The use of depreciated React.createClass. This is just to show you the root of our beloved react.
 - Creating a component using React.Component plus extends. Class components that inherit properties from it.
 - Stateless function components. The now common method to write a react component.
+- Webpack manual configuration of the recipes-app project
 
 ## Summary
 
