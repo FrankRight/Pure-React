@@ -87,4 +87,4 @@ ReactDOM.render([<header1 />, <paragrph1>], document.getElementById("root"))
 
 Knowledge of pure react can be very crutual mostly debugging and can help you land a job in an interview.
 
-Happy coding our beloved react!
+Happy coding our **beloved** react!
